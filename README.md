@@ -85,4 +85,4 @@ The function calls the swap function to rearrange the weight balance of the inco
 
 It prints the tree members recursively on this method, but the locations of the members are irregular due to the AVL tree structure.
 
-Referances :www.geeksforgeeks.org/avl-tree-set-1-insertion/
+Reference :www.geeksforgeeks.org/avl-tree-set-1-insertion/
